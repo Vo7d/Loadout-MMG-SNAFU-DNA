@@ -1,0 +1,419 @@
+{
+    "m_DNAConfig_Loot": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+		{
+            "dna_Tier": "yellow",
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
+        },
+		{
+            "dna_Tier": "yellow",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+		{
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+		{
+            "dna_Tier": "yellow",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Solder"
+        },
+		{
+            "dna_Tier": "yellow",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Flux"
+        },
+		{
+            "dna_Tier": "yellow",
+            "dna_Category": "tools",
+            "dna_Type": "CodeLock"
+        },      
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannbisSeedsPackS1"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannbisSeedsPackS1"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannbisSeedsPackS1"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+		{
+            "dna_Tier": "green",
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
+        },
+		{
+            "dna_Tier": "green",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+		{
+            "dna_Tier": "green",
+            "dna_Category": "tools",
+            "dna_Type": "CodeLock"
+        },
+		{
+            "dna_Tier": "green",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Solder"
+        },
+		{
+            "dna_Tier": "green",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Flux"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "tools",
+            "dna_Type": "NailBox"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackStardawg"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisBrickStardawg"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackStardawg"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+		{
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBag"
+        },
+		{
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
+        },
+		{
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+		{
+            "dna_Tier": "blue",
+            "dna_Category": "tools",
+            "dna_Type": "CodeLock"
+        },
+		{
+            "dna_Tier": "blue",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Solder"
+        },
+		{
+            "dna_Tier": "blue",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Flux"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "tools",
+            "dna_Type": "NailBox"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisBrickBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisBrickBlue"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+		{
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
+        },
+		{
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+		{
+            "dna_Tier": "purple",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBag"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+		{
+            "dna_Tier": "purple",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Solder"
+        },
+		{
+            "dna_Tier": "purple",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Flux"
+        },
+		{
+            "dna_Tier": "purple",
+            "dna_Category": "tools",
+            "dna_Type": "CodeLock"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "tools",
+            "dna_Type": "NailBox"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackBlackFrost"
+        },
+        {
+            "dna_Tier": "purple",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisBrickKush"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "BloodTestKit"
+        },
+		{
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "CharcoalTablets"
+        },
+		{
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "TetracyclineAntibiotics"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+		{
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "BakedBeansCan"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBag"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Kvass"
+        },
+		{
+            "dna_Tier": "red",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Solder"
+        },
+		{
+            "dna_Tier": "red",
+            "dna_Category": "tools",
+            "dna_Type": "DNA_Flux"
+        },
+		{
+            "dna_Tier": "red",
+            "dna_Category": "tools",
+            "dna_Type": "CodeLock"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "tools",
+            "dna_Type": "NailBox"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackFuture"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisSeedsPackFuture"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "DP_CocaSeedsPack"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisBrickFuture"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisBrickFuture"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "proprietary",
+            "dna_Type": "CP_CannabisBrickFuture"
+        }
+    ]
+}
